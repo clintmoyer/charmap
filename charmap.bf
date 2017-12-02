@@ -1,5 +1,5 @@
 [ Character Map
-  -------------
+  =============
 
   This program will print out a usable character map.
 ]
