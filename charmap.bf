@@ -16,7 +16,7 @@
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
-  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  along with this program.  If not, see http://www.gnu.org/licenses.
 ]
 
 Start by defining the separators
@@ -69,9 +69,12 @@ Start Cell #5 at 33 for readable characters
 
 Loop until Cell #0 is zero
 incrementing Cell #5 by one
-Print 4,3,2,1 meaning #,char,colon,space
+Print Cells 4/2/1/5/3 meaning #/colon/space/char/newline
 [
-  >>>>>
-  <.<.<.<.
-  <-
+  >>>>.
+  <<.
+  <.
+  >>>>.
+  <<.
+  <<<-
 ]
